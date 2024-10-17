@@ -688,7 +688,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Echoes of the Abyss
+  m_text: 'Midterm Game
 
 '
   m_isRightToLeft: 0
@@ -699,8 +699,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4289839104
-  m_fontColor: {r: 0, g: 0.7529412, b: 0.69486266, a: 1}
+    rgba: 4278225663
+  m_fontColor: {r: 1, g: 0.53977287, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1176,8 +1176,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4290820864
-  m_fontColor: {r: 0, g: 0.7319756, b: 0.7529412, a: 1}
+    rgba: 4278218495
+  m_fontColor: {r: 1, g: 0.4333333, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
